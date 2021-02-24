@@ -1,0 +1,21 @@
+发送时间：2021-02-19 15:22:02/19/21 	 服务器地址：http://192.168.0.100:8000/assets/report/ 	 返回结果：发送失败 错误原因： not a valid non-string sequence or mapping object 
+发送时间：2021-02-19 15:33:02/19/21 	 服务器地址：http://192.168.0.100:8000/assets/report/ 	 返回结果：发送失败 错误原因： <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond> 
+发送时间：2021-02-19 15:43:02/19/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：发送失败 错误原因： <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it> 
+发送时间：2021-02-19 15:46:02/19/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：发送失败 错误原因： <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it> 
+发送时间：2021-02-19 15:48:02/19/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：发送失败 错误原因： <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it> 
+发送时间：2021-02-19 15:52:02/19/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：发送失败 错误原因： HTTP Error 403: Forbidden 
+发送时间：2021-02-19 15:58:02/19/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：发送失败 错误原因： 'bytes' object has no attribute 'encode' 
+发送时间：2021-02-19 15:59:02/19/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：成功收到数据！ 
+发送时间：2021-02-20 10:32:02/20/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：没有数据！ 
+发送时间：2021-02-20 10:35:02/20/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：没有数据！ 
+发送时间：2021-02-20 10:35:02/20/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：没有数据！ 
+发送时间：2021-02-20 10:36:02/20/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：没有数据！ 
+发送时间：2021-02-20 10:36:02/20/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：没有数据！ 
+发送时间：2021-02-20 10:36:02/20/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：没有数据！ 
+发送时间：2021-02-20 10:43:02/20/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：没有数据！ 
+发送时间：2021-02-20 10:43:02/20/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：没有数据！ 
+发送时间：2021-02-20 10:46:02/20/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：没有数据！ 
+发送时间：2021-02-20 10:48:02/20/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：没有数据！ 
+发送时间：2021-02-20 10:48:02/20/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：没有数据！ 
+发送时间：2021-02-20 10:49:02/20/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：没有数据！ 
+发送时间：2021-02-20 10:51:02/20/21 	 服务器地址：http://192.168.1.28:8888/assets/report/ 	 返回结果：资产已经加入或更新待审批区 

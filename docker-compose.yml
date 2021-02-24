@@ -1,0 +1,22 @@
+version: "3.9"
+services:
+  db:
+    container_name: cmdb_postgres
+    image: postgres
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5432:5432"
+  web:
+    container_name: cmdb_django
+    build: .
+    command:
+      python manage.py runserver 0.0.0.0:8888
+    volumes:
+      - .:/code
+    ports:
+      - "8888:8888"
+    depends_on:
+      - db
